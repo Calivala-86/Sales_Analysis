@@ -19,3 +19,19 @@ The main objective is to see if the business has lived up to its sales forecast,
 
 # Dataset
 Dataset consists of 12 month wealth of sales data [Jan-Dec]. Analysis can be done for a single file, and all dataset can combined into a single file to allow analysis for the whole year once you run the program.
+
+## Getting started
+
+get the code from the repository
+
+git clone: https://github.com/Calivala-86/Credit-Card-Fraud-Detection.git
+
+**Install required python packages** if previously not installed:
+
+download link:https://www.python.org/downloads/
+
+Instructions: https://www.tutorialspoint.com/how-to-install-python-in-windows
+
+**Install Jupyter notebook** and necessary dependencies:
+
+link: https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/
