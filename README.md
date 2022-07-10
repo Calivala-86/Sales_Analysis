@@ -4,15 +4,15 @@ It's the end of the year and time to analyze if the business has lived up to its
 
 With that said, in this project, I will be analyzing the business's yearly sales activities and determine factors such as:
 
- 1.Highest sales turnover, 
+       1.Highest sales turnover, 
 
- 2.Highest sales per city, 
+       2.Highest sales per city, 
 
- 3.Highest sales per month, 
+       3.Highest sales per month, 
 
- 4.The product most sold, 
+       4.The product most sold, 
 
- 5.Best time to place advisement.
+       5.Best time to place advisement.
  
 # Objetive
 The main objective is to see if the business has lived up to its sales forecast, and find areas to propose improvements.
