@@ -24,7 +24,7 @@ Dataset consists of 12 month wealth of sales data [Jan-Dec]. Analysis can be don
 
 get the code from the repository
 
-git clone: https://github.com/Calivala-86/Credit-Card-Fraud-Detection.git
+git clone: https://github.com/Calivala-86/Sales_Analysis.git
 
 **Install required python packages** if previously not installed:
 
