@@ -18,4 +18,4 @@ With that said, in this project, I will be analyzing the business's yearly sales
 The main objective is to see if the business has lived up to its sales forecast, and find areas to propose improvements.
 
 # Dataset
-Dataset consists of 12 month wealth of sales data [Jan-Dec]. Analysis can be done for a single file, and all dataset has been combined into a single file to allow analysis for the whole year.
+Dataset consists of 12 month wealth of sales data [Jan-Dec]. Analysis can be done for a single file, and all dataset can combined into a single file to allow analysis for the whole year once you run the program.
